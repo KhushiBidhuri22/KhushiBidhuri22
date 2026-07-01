@@ -16,7 +16,7 @@ I am a Computer Science student passionate about Artificial Intelligence, Machin
 ## Currently Building:
 - AI & ML Projects
    - <a href="https://github.com/KhushiBidhuri22/student-performance-prediction">Student Performance Predictor</a>
-   - <a href="https://github.com/KhushiBidhuri22/house-price-prediction-ml-basics">California House  Price Predictor r</a>
+   - <a href="https://github.com/KhushiBidhuri22/house-price-prediction-ml-basics">California House  Price Predictor </a>
 - Full Stack Projects
 
 ---
