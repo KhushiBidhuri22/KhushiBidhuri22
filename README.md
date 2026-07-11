@@ -35,4 +35,4 @@ I am a Computer Science student passionate about Artificial Intelligence, Machin
 
 ## Contact:
 - Email: khushibidhuri17@gmail.com
-- Linkedin: <a href="  https://www.linkedin.com/in/khushibidhuri/">Khushi Bidhuri</a>
+- Linkedin: <a href="https://www.linkedin.com/in/khushibidhuri/">Khushi Bidhuri </a>
