@@ -1,6 +1,6 @@
 
 
-# Hi ,  I'm Khushi
+# Hey ,  I'm Khushi
 
 I am a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy building real-world applications that combine intelligent solutions with user-friendly interfaces.
 
